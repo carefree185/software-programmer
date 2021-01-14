@@ -14,3 +14,19 @@
 ### 1.5 [多媒体系统](https://gitee.com/duyupeng36/software-programmer/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E7%B3%BB%E7%BB%9F.md)
 
 ## 第二章 操作系统
+### 2.1 [操作系统的概述](https://gitee.com/duyupeng36/software-programmer/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%A6%82%E8%BF%B0.md)
+### 2.2 [进程管理](https://gitee.com/duyupeng36/software-programmer/blob/master/%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86.md)
+### 2.3 [存储管理](https://gitee.com/duyupeng36/software-programmer/blob/master/%E5%AD%98%E5%82%A8%E7%AE%A1%E7%90%86.md)
+### 2.4 [设备管理](https://gitee.com/duyupeng36/software-programmer/blob/master/%E8%AE%BE%E5%A4%87%E7%AE%A1%E7%90%86.md)
+### 2.5 [文件管理](https://gitee.com/duyupeng36/software-programmer/blob/master/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86.md)
+### 2.6 [作业管理](https://gitee.com/duyupeng36/software-programmer/blob/master/%E4%BD%9C%E4%B8%9A%E7%AE%A1%E7%90%86.md)
+
+
+
+
+
+
+
+
+
+
