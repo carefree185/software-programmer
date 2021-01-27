@@ -21,7 +21,13 @@
 ### 2.5 [文件管理](https://gitee.com/duyupeng36/software-programmer/blob/master/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86.md)
 ### 2.6 [作业管理](https://gitee.com/duyupeng36/software-programmer/blob/master/%E4%BD%9C%E4%B8%9A%E7%AE%A1%E7%90%86.md)
 
+## 第三章 程序设计语言基础知识
 
+### 3.1 [程序设计语言概述](https://gitee.com/duyupeng36/software-programmer/blob/master/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0.md)
+### 3.2 [语言处理程序基础](https://gitee.com/duyupeng36/software-programmer/blob/master/%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%A8%8B%E5%BA%8F%E5%9F%BA%E7%A1%80.md)
+### 3.3 [汇编程序基础](https://gitee.com/duyupeng36/software-programmer/blob/master/%E6%B1%87%E7%BC%96%E7%A8%8B%E5%BA%8F%E5%9F%BA%E7%A1%80.md)
+### 3.4 [编译程序基础](https://gitee.com/duyupeng36/software-programmer/blob/master/%E7%BC%96%E8%AF%91%E7%A8%8B%E5%BA%8F%E5%9F%BA%E7%A1%80.md)
+### 3.5 [解释程序基础](https://gitee.com/duyupeng36/software-programmer/blob/master/%E8%A7%A3%E9%87%8A%E7%A8%8B%E5%BA%8F%E5%9F%BA%E7%A1%80.md)
 
 
 
